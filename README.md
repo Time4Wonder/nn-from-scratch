@@ -21,6 +21,3 @@ nn-from-scratch/
 ├── setup.py                      # Optional: For installation as a package
 └── README.md                     # Project overview (already present)
 ```
-├── setup.py                      # Optional: Für Installation als Paket
-└── README.md                     # Projektübersicht (bereits vorhanden)
-```
