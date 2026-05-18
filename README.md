@@ -1,6 +1,10 @@
 # nn-from-scratch
 This project is an attempt to build my own neural network framework from scratch. I want to gain a deeper understanding of how neural networks work and implement key deep learning concepts myself.
 
+# Current Phase
+I am currently in an experimentation phase, turning theoretical [math notes](docs/math-notes/forward-pass-and-backpropagation-example.pdf) into practical Jupyter notebook experiments. The goal is to translate the mathematical understanding from the docs into a working, hands-on playground for the network framework.
+
+```model architecture -> forwardpass -> backpropagation```
 
 ## Project Structure
 
