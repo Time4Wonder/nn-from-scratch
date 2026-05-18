@@ -1,4 +1,4 @@
-# nn-from-scratch
+# nn-from-scratch [WIP]
 This project is an attempt to build my own neural network framework from scratch. I want to gain a deeper understanding of how neural networks work and implement key deep learning concepts myself.
 
 # Current Phase
