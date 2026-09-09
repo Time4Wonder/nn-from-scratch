@@ -137,3 +137,6 @@ data/raw/*.csv  # Uncomment if you want to ignore raw data
 *.pt
 *.h5
 *.pkl
+
+#LSP config
+pyrightconfig.json
